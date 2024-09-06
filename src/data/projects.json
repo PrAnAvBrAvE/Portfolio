@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Knowledge Enhancement Portal",
+    "imageSrc": "projects/kep.png",
+    "description": "This project was developed in sponsorship with Government Polytechnic, Miraj for administrative purpose.",
+    "skills": ["HTML", "CSS", "JavaScript","JSP","JDBC","MySQL"],
+    "source": "https://github.com/PrAnAvBrAvE/Knowledge-Enhancement-Portal"
+  },
+  {
+    "title": "GUI based Student Management System using Python",
+    "imageSrc": "projects/gui.png",
+    "description": "This GUI-based Python project aims to manage student information, allowing users to add, update, and delete student records, streamlining the process of student data management through an interactive graphical interface.",
+    "skills": ["Python(Tkinter)","Python","MySQL"],
+    "source": "https://github.com/PrAnAvBrAvE/Student-Management-System-Python"
+  },
+  {
+    "title": "Online Inventory Management System",
+    "imageSrc": "projects/oims.png",
+    "description": "This project is web application which aims at managing various stocks of electronic appliances.",
+    "skills": ["HTML", "CSS", "JavaScript","JSP","JDBC","MySQL"],
+    "source": "https://github.com/PrAnAvBrAvE/Inventory-Management-System"
+  },
+  {
+    "title": "Landing Page",
+    "imageSrc": "projects/sb.png",
+    "description": "This is a simple Landig Page of starbucks",
+    "skills": ["HTML","CSS","JavaScript"],
+    "source": "https://github.com/PrAnAvBrAvE/Landing-Page"
+  },
+  {
+    "title": "NewsMonkey",
+    "imageSrc": "projects/nm.png",
+    "description": "NewsMonkey is a news app which can be used to grab quick daily news bites. If you are interested in news related to weather, politics and sports, then newsmonkey is for you!",
+    "skills": ["HTML","CSS","JavaScript","React"],
+    "source": "https://github.com/PrAnAvBrAvE/NewsMonkey-React"
+  },
+  {
+    "title": "BMI Calculator",
+    "imageSrc": "projects/bmi.png",
+    "description": "BMI is an inexpensive and easy screening method for weight category—underweight, healthy weight, overweight, and obesity. It is calculated by a person's height and weight.",
+    "skills": ["HTML","CSS","JavaScript"],
+    "source": "https://github.com/PrAnAvBrAvE/BMI_Calculator"
+  },
+  {
+    "title": "TextUtils",
+    "imageSrc": "projects/te.png",
+    "description": "This is a simple Landig Page of starbucks",
+    "skills": ["HTML","CSS","JavaScript","React"],
+    "source": "https://github.com/PrAnAvBrAvE/TextUtils-React"
+  },
+  {
+    "title": "Guess the Number",
+    "imageSrc": "projects/gtn.png",
+    "description": "A simple game of guessing the right number using javascript",
+    "skills": ["HTML","CSS","JavaScript"],
+    "source": "https://github.com/PrAnAvBrAvE/Guess_the_number"
+  }
+]
